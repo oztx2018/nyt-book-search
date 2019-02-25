@@ -17,6 +17,7 @@ const blogSeed = [
   },
   
 ];
+
 db.Blog
   .remove({})
   .then(() => db.blogs.collection.insertMany(blogSeed))
