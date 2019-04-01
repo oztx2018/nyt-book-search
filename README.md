@@ -9,6 +9,4 @@ Technologies Used
 
 React Mongdb Express Node
 
-DEMO
 
-Coming Soon
